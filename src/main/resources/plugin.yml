@@ -1,0 +1,10 @@
+name: GMShowItem
+version: 1.0
+main: com.gemix.gmshowitem.GMShowItem
+api-version: '1.21'
+author: gemix
+description: A lightweight Paper 1.21 plugin to show items in chat using Adventure API.
+permissions:
+  gmshowitem.use:
+    description: Allows the user to show their item in chat.
+    default: true
